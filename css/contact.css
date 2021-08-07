@@ -1,0 +1,6 @@
+.input {
+  transition: box-shadow 0.3s, border-color 0.3s;
+}
+.input:focus {
+  box-shadow: 0 0 0 0.2rem rgba(88, 99, 248, 0.15);
+}
